@@ -1,0 +1,11 @@
+button, span, p {
+  margin: 0 ;
+  padding: 0 ;
+}
+p {
+  line-height: initial;
+}
+.MuiButton-startIcon {
+  margin: 0 !important;
+  padding: 0 !important;
+}

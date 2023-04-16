@@ -32,7 +32,7 @@ const routes = createBrowserRouter([
       {
         path: 'dashboard',
         index: true,
-        element: <AuthGuard><DashboardPage /></AuthGuard>,
+        element: <DashboardPage />,
       },
     ],
   }
